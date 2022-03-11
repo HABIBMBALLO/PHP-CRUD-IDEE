@@ -1,3 +1,4 @@
+//amelioration du code
 <?php
 
     require 'database.php';
